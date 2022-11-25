@@ -1,0 +1,15 @@
+I:\Homework\8task\bin\Debug\net6.0\8task.exe
+I:\Homework\8task\bin\Debug\net6.0\8task.deps.json
+I:\Homework\8task\bin\Debug\net6.0\8task.runtimeconfig.json
+I:\Homework\8task\bin\Debug\net6.0\8task.dll
+I:\Homework\8task\bin\Debug\net6.0\8task.pdb
+I:\Homework\8task\obj\Debug\net6.0\8task.csproj.AssemblyReference.cache
+I:\Homework\8task\obj\Debug\net6.0\8task.GeneratedMSBuildEditorConfig.editorconfig
+I:\Homework\8task\obj\Debug\net6.0\8task.AssemblyInfoInputs.cache
+I:\Homework\8task\obj\Debug\net6.0\8task.AssemblyInfo.cs
+I:\Homework\8task\obj\Debug\net6.0\8task.csproj.CoreCompileInputs.cache
+I:\Homework\8task\obj\Debug\net6.0\8task.dll
+I:\Homework\8task\obj\Debug\net6.0\refint\8task.dll
+I:\Homework\8task\obj\Debug\net6.0\8task.pdb
+I:\Homework\8task\obj\Debug\net6.0\8task.genruntimeconfig.cache
+I:\Homework\8task\obj\Debug\net6.0\ref\8task.dll
