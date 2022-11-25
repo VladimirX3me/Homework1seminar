@@ -1,0 +1,15 @@
+I:\Homework\2task\bin\Debug\net6.0\2task.exe
+I:\Homework\2task\bin\Debug\net6.0\2task.deps.json
+I:\Homework\2task\bin\Debug\net6.0\2task.runtimeconfig.json
+I:\Homework\2task\bin\Debug\net6.0\2task.dll
+I:\Homework\2task\bin\Debug\net6.0\2task.pdb
+I:\Homework\2task\obj\Debug\net6.0\2task.csproj.AssemblyReference.cache
+I:\Homework\2task\obj\Debug\net6.0\2task.GeneratedMSBuildEditorConfig.editorconfig
+I:\Homework\2task\obj\Debug\net6.0\2task.AssemblyInfoInputs.cache
+I:\Homework\2task\obj\Debug\net6.0\2task.AssemblyInfo.cs
+I:\Homework\2task\obj\Debug\net6.0\2task.csproj.CoreCompileInputs.cache
+I:\Homework\2task\obj\Debug\net6.0\2task.dll
+I:\Homework\2task\obj\Debug\net6.0\refint\2task.dll
+I:\Homework\2task\obj\Debug\net6.0\2task.pdb
+I:\Homework\2task\obj\Debug\net6.0\2task.genruntimeconfig.cache
+I:\Homework\2task\obj\Debug\net6.0\ref\2task.dll
