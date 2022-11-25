@@ -1,0 +1,15 @@
+I:\Homework\4task\bin\Debug\net6.0\4task.exe
+I:\Homework\4task\bin\Debug\net6.0\4task.deps.json
+I:\Homework\4task\bin\Debug\net6.0\4task.runtimeconfig.json
+I:\Homework\4task\bin\Debug\net6.0\4task.dll
+I:\Homework\4task\bin\Debug\net6.0\4task.pdb
+I:\Homework\4task\obj\Debug\net6.0\4task.csproj.AssemblyReference.cache
+I:\Homework\4task\obj\Debug\net6.0\4task.GeneratedMSBuildEditorConfig.editorconfig
+I:\Homework\4task\obj\Debug\net6.0\4task.AssemblyInfoInputs.cache
+I:\Homework\4task\obj\Debug\net6.0\4task.AssemblyInfo.cs
+I:\Homework\4task\obj\Debug\net6.0\4task.csproj.CoreCompileInputs.cache
+I:\Homework\4task\obj\Debug\net6.0\4task.dll
+I:\Homework\4task\obj\Debug\net6.0\refint\4task.dll
+I:\Homework\4task\obj\Debug\net6.0\4task.pdb
+I:\Homework\4task\obj\Debug\net6.0\4task.genruntimeconfig.cache
+I:\Homework\4task\obj\Debug\net6.0\ref\4task.dll
